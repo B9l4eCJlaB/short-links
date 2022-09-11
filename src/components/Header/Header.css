@@ -1,0 +1,13 @@
+.header {
+    padding-top: 20px;
+}
+.header__title {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: rgb(66, 209, 161);
+}
+.header__wrapper {
+    width: 800px;
+    margin: 0 auto;
+}

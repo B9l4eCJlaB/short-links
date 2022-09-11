@@ -1,0 +1,69 @@
+.main {
+    background-color: blueviolet;
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.main__span-text {
+    color: antiquewhite;
+    font-size: 14px;
+    font-weight: 800;
+}
+.main__sidebar {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+.main__input {
+    height: 20px;
+    width: 100px;
+}
+.main__item {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 220px;
+    color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+}
+.main__columns {
+    display: flex;
+    justify-content: space-between;
+}
+.main__links {
+    width: 300px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.main__link {
+    text-decoration: none;
+    color: antiquewhite;
+}
+.main__counter {
+    color: aliceblue;
+    margin-left: 100px;
+}
+.form {
+    margin: 40px auto 50px;
+    display: flex;
+    align-items: center;
+}
+.form__button {
+    border-radius: 20%;
+    background-color: rgba(19, 165, 43, 0.568);
+    border: none;
+    padding: 8px;
+    color: antiquewhite;
+    height: 30px;
+    box-sizing: border-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all;
+    font-size: 14px;
+}
+.form__button:hover {
+    background-color: rgba(81, 179, 43, 0.76);
+}
