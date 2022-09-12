@@ -1,1 +1,1 @@
-### Ссылка на проект: [links](https://b9l4ecjlab.github.io/sign-in "Вход на сайт short-links")
+### Ссылка на проект: [links](https://b9l4ecjlab.github.io/short-links/ "Вход на сайт short-links")
